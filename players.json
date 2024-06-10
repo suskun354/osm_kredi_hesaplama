@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Salim",
+        "league_position": 1,
+        "target_hit": 1,
+        "cup_stage": 1,
+        "yellow_cards": 23,
+        "red_cards": 5,
+        "goals_conceded": 17,
+        "goals_scored": 56,
+        "interviews": 21,
+        "penalty_points": [
+            "Transfer ihlali"
+        ],
+        "score": 18
+    },
+    {
+        "name": "yunus emre",
+        "league_position": 2,
+        "target_hit": 1,
+        "cup_stage": 3,
+        "yellow_cards": 12,
+        "red_cards": 6,
+        "goals_conceded": 20,
+        "goals_scored": 89,
+        "interviews": 4,
+        "penalty_points": [],
+        "score": 23
+    },
+    {
+        "name": "alpaslan",
+        "league_position": 3,
+        "target_hit": -1,
+        "cup_stage": 2,
+        "yellow_cards": 23,
+        "red_cards": 5,
+        "goals_conceded": 13,
+        "goals_scored": 67,
+        "interviews": 23,
+        "penalty_points": [],
+        "score": 19
+    },
+    {
+        "name": "\u015f\u00fckr\u00fc",
+        "league_position": 8,
+        "target_hit": -1,
+        "cup_stage": 1,
+        "yellow_cards": 34,
+        "red_cards": 23,
+        "goals_conceded": 42,
+        "goals_scored": 67,
+        "interviews": 3,
+        "penalty_points": [
+            "Aktiflik ihlali",
+            "\u0130\u00e7 transfer ihlali",
+            "Kadro planlamas\u0131 ihlali"
+        ],
+        "score": 0
+    },
+    {
+        "name": "\u015f\u00fckr\u00fc",
+        "league_position": 8,
+        "target_hit": -1,
+        "cup_stage": 1,
+        "yellow_cards": 34,
+        "red_cards": 23,
+        "goals_conceded": 42,
+        "goals_scored": 67,
+        "interviews": 3,
+        "penalty_points": [
+            "Aktiflik ihlali",
+            "\u0130\u00e7 transfer ihlali",
+            "Kadro planlamas\u0131 ihlali",
+            "Ayn\u0131 tak\u0131m aras\u0131 i\u00e7 transfer ihlali"
+        ],
+        "score": -5
+    },
+    {
+        "name": "emin ok",
+        "league_position": 6,
+        "target_hit": -1,
+        "cup_stage": 2,
+        "yellow_cards": 11,
+        "red_cards": 2,
+        "goals_conceded": 34,
+        "goals_scored": 77,
+        "interviews": 14,
+        "penalty_points": [],
+        "score": 15
+    }
+]
